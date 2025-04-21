@@ -1,3 +1,7 @@
+# ***************************************************
+# *This lesson was complete with the help of GEMINI *
+#  I DO NOT FULLY UNDERSTAND THE CODE               *
+# ***************************************************
 import unittest
 from unittest.mock import patch
 import builtins
